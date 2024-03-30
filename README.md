@@ -31,7 +31,7 @@ IOS SCREENSHOTS
 <img width="1440" alt="Screenshot 2024-03-30 at 22 39 15" src="https://github.com/ime01/KMPTodoApp/assets/44091450/b57da2cf-1e55-4959-92b3-81464a6911a9">
 
 
-  
+ANDROID SCREENSHOTS  
 <img width="1440" alt="Screenshot 2024-03-30 at 22 22 55" src="https://github.com/ime01/KMPTodoApp/assets/44091450/43c1e99a-6a42-4fe8-979b-33cc35ac2513">
 <img width="1440" alt="Screenshot 2024-03-30 at 22 23 16" src="https://github.com/ime01/KMPTodoApp/assets/44091450/4e25bd6a-3a2a-44bf-a52b-c6f53508b8c5">
 
