@@ -1,4 +1,4 @@
-This is a Kotlin Multiplatform project targeting Android, iOS.
+<img width="1440" alt="Screenshot 2024-03-30 at 22 39 10" src="https://github.com/ime01/KMPTodoApp/assets/44091450/90bc1de9-4cd7-4204-a82a-70ccdd9b35e6">This is a Kotlin Multiplatform project targeting Android, iOS.
 
 AN IOS AND ANDROID TASK TODO APP, BUILT WITH KOTLIN/COMPOSE MULTIPLATFORM UTILIZING
 
@@ -21,6 +21,15 @@ APP RUNS ON IOS AND ANDROID DEVICES
 
 * `/iosApp` contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform, 
   you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
+
+IOS SCREENSHOTS
+<img width="1440" alt="Screenshot 2024-03-30 at 22 39 10" src="https://github.com/ime01/KMPTodoApp/assets/44091450/07534247-f4e8-432b-8511-269320e2dfac">
+
+<img width="1440" alt="Screenshot 2024-03-30 at 22 36 50" src="https://github.com/ime01/KMPTodoApp/assets/44091450/09010133-8914-4948-994a-c735f9503046">
+
+
+<img width="1440" alt="Screenshot 2024-03-30 at 22 39 15" src="https://github.com/ime01/KMPTodoApp/assets/44091450/b57da2cf-1e55-4959-92b3-81464a6911a9">
+
 
   
 <img width="1440" alt="Screenshot 2024-03-30 at 22 22 55" src="https://github.com/ime01/KMPTodoApp/assets/44091450/43c1e99a-6a42-4fe8-979b-33cc35ac2513">
