@@ -1,5 +1,12 @@
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
+AN IOS AND ANDROID TASK TODO APP, BUILT WITH KOTLIN/COMPOSE MULTIPLATFORM UTILIZING 
+MONGO DB REALM DATABASE
+KOIN FOR DEPENDENCY INJECTION
+JETPACK COMPOSE 
+KOTLIN
+APP RUNS ON IOS AND ANDROID DEVICES
+
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
   - `commonMain` is for code that’s common for all targets.
